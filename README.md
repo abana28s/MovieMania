@@ -1,7 +1,5 @@
 # MovieMania
 
-##Getting Started
-
 **Installation**
 
 **Flask API**
