@@ -27,5 +27,5 @@ Start the server
   flask run
 ```
 
-##Usage
+##Usage: 
 **Visit the website and click on Get Started**
